@@ -1,0 +1,15 @@
+../app/src/task_menu.c:193:13:rtc_get_datetime	32	static
+../app/src/task_menu.c:207:26:rtc_set_datetime	32	static
+../app/src/task_menu.c:232:20:rtc_mark_initialized	8	static
+../app/src/task_menu.c:236:12:findVehicle	24	static
+../app/src/task_menu.c:245:13:addVehicle	64	static,ignoring_inline_asm
+../app/src/task_menu.c:263:17:elapsedMinutes	24	static
+../app/src/task_menu.c:272:16:countVehicles	16	static
+../app/src/task_menu.c:278:13:showVehicleIndex	48	static
+../app/src/task_menu.c:334:26:exitlog_read_hdr	8	static
+../app/src/task_menu.c:337:26:exitlog_write_hdr	8	static
+../app/src/task_menu.c:340:26:exitlog_init	16	static
+../app/src/task_menu.c:359:26:exitlog_append	24	static
+../app/src/task_menu.c:407:14:load_cb	32	static
+../app/src/task_menu.c:372:6:task_menu_init	72	static,ignoring_inline_asm
+../app/src/task_menu.c:433:6:task_menu_update	232	static,ignoring_inline_asm

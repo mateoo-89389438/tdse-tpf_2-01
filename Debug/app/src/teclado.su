@@ -1,0 +1,3 @@
+../app/src/teclado.c:52:6:keypadUpdate	24	static
+../app/src/teclado.c:80:6:keypadKeyAvailable	4	static
+../app/src/teclado.c:84:6:keypadReadKey	4	static

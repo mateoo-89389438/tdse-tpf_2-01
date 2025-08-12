@@ -1,0 +1,1 @@
+El módulo storage implementa una capa de abstracción sobre el driver eeprom para el almacenamiento persistente del historial de vehículos. Maneja el formato de datos, el encabezado (header) con metadatos y las funciones de alto nivel para agregar y recorrer registros.

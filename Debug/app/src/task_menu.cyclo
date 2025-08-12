@@ -1,0 +1,15 @@
+../app/src/task_menu.c:193:13:rtc_get_datetime	6
+../app/src/task_menu.c:207:26:rtc_set_datetime	9
+../app/src/task_menu.c:232:20:rtc_mark_initialized	1
+../app/src/task_menu.c:236:12:findVehicle	4
+../app/src/task_menu.c:245:13:addVehicle	3
+../app/src/task_menu.c:263:17:elapsedMinutes	1
+../app/src/task_menu.c:272:16:countVehicles	3
+../app/src/task_menu.c:278:13:showVehicleIndex	8
+../app/src/task_menu.c:334:26:exitlog_read_hdr	1
+../app/src/task_menu.c:337:26:exitlog_write_hdr	1
+../app/src/task_menu.c:340:26:exitlog_init	6
+../app/src/task_menu.c:359:26:exitlog_append	4
+../app/src/task_menu.c:407:14:load_cb	3
+../app/src/task_menu.c:372:6:task_menu_init	4
+../app/src/task_menu.c:433:6:task_menu_update	164

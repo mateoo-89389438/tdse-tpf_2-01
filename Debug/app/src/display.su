@@ -1,0 +1,9 @@
+../app/src/display.c:118:6:displayInit	16	static
+../app/src/display.c:193:6:displayCharPositionWrite	32	static
+../app/src/display.c:240:6:displayStringWrite	32	static
+../app/src/display.c:257:6:displayRowClear	16	static
+../app/src/display.c:262:6:displayClearFull	24	static
+../app/src/display.c:281:13:displayCodeWrite	16	static
+../app/src/display.c:291:13:displayPinWrite	16	static
+../app/src/display.c:328:13:displayDataBusWrite	16	static
+../app/src/display.c:370:6:display_delay_us	24	static

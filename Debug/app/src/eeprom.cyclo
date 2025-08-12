@@ -1,0 +1,5 @@
+../app/src/eeprom.c:4:24:min_u16	1
+../app/src/eeprom.c:11:19:EEPROM_Init	1
+../app/src/eeprom.c:15:19:EEPROM_WaitReady	3
+../app/src/eeprom.c:25:19:EEPROM_Read	3
+../app/src/eeprom.c:47:19:EEPROM_Write	6

@@ -1,0 +1,5 @@
+../app/src/eeprom.c:4:24:min_u16	16	static
+../app/src/eeprom.c:11:19:EEPROM_Init	8	static
+../app/src/eeprom.c:15:19:EEPROM_WaitReady	24	static
+../app/src/eeprom.c:25:19:EEPROM_Read	48	static
+../app/src/eeprom.c:47:19:EEPROM_Write	56	static

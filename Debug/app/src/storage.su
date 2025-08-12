@@ -1,0 +1,6 @@
+../app/src/storage.c:22:26:read_header	8	static
+../app/src/storage.c:26:26:write_header	8	static
+../app/src/storage.c:30:19:storage_init	16	static
+../app/src/storage.c:50:10:storage_get_count	4	static
+../app/src/storage.c:54:19:storage_iterate	40	static
+../app/src/storage.c:72:19:storage_append	24	static

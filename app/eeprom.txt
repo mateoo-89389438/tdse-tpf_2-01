@@ -1,0 +1,1 @@
+El módulo eeprom es un driver genérico para memorias EEPROM externas de la familia AT24Cxx (por ejemplo, AT24C256) conectadas por I²C. Encapsula las operaciones básicas de lectura y escritura sobre direcciones de memoria, gestionando detalles de protocolo y paginado.e

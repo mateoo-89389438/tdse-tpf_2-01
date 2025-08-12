@@ -1,0 +1,4 @@
+El módulo task_menu implementa la lógica principal de la aplicación y la interfaz de usuario. 
+Gestiona el menú interactivo, el ingreso y egreso de vehículos, el conteo de plazas ocupadas y 
+la interacción con periféricos como el display LCD, el teclado matricial y el RTC. 
+Funciona como una máquina de estados (FSM) en un sistema bare-metal con super-loop, ejecutando código no bloqueante.

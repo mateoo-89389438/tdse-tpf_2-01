@@ -1,0 +1,5 @@
+../Core/Src/rtc.c:23:6:MX_RTC_Init	16	static
+../Core/Src/rtc.c:50:6:HAL_RTC_MspInit	16	static
+../Core/Src/rtc.c:59:6:HAL_RTC_MspDeInit	16	static
+../Core/Src/rtc.c:70:13:RTC_EnableClock_LSE_Pref	16	static
+../Core/Src/rtc.c:102:13:RTC_WriteDefaultIfNotMarked	24	static
