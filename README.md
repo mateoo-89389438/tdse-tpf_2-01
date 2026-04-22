@@ -1,6 +1,6 @@
 # Sistema Embebido de Control de Estacionamiento con STM32
 
-Este proyecto consiste en el desarrollo completo de un sistema embebido para gestión y control de acceso vehicular en estacionamientos, implementado como trabajo práctico para las materias **Sistemas Embebidos [TA134]** y **Planificación de Proyectos [TC023]** de la carrera de Ingeniería Electrónica.
+Este proyecto consiste en el desarrollo completo de un sistema embebido para gestión y control de acceso vehicular en estacionamientos, implementado como trabajo práctico para las materias **Sistemas Embebidos [TA134]** y **Planificación de Proyectos [TC023]** de la carrera de Ingeniería Electrónica (UBA).
 
 El objetivo fue diseñar y programar un sistema bare-metal en lenguaje C para microcontrolador STM32, capaz de controlar el acceso vehicular mediante sensores, gestionar tarifas dinámicas y proporcionar información en tiempo real sobre el estado del estacionamiento.
 
